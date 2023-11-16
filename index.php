@@ -1,3 +1,6 @@
+<?php 
+include ('traitement.php');
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,7 +11,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    
+    <script src="js/code.js"> </script>
 <section>
     <h1>jrkhgrfhikerugi</h1>
 </section>

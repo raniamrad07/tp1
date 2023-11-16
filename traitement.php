@@ -1,2 +1,9 @@
 <?php
-$NAME=$_post
+
+$servername="localhost";
+$username="root";
+$password="";
+$database="poly";
+$name=$_post ['nom'];
+
+?>
