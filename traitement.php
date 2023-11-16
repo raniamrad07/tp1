@@ -1,0 +1,2 @@
+<?php
+$NAME=$_post
